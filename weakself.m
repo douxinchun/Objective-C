@@ -1,9 +1,12 @@
 // weakself
 // 
 //
+// IDECodeSnippetCompletionPrefix: ws
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 04D8D2CB-4B30-4317-AE2E-9ABD8D5D152A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 ---
 title: "__weak self"
 summary: "Declare weak reference to self"
