@@ -1,3 +1,9 @@
+// cvds
+// 
+//
+// IDECodeSnippetIdentifier: F2D72B2C-1132-47EC-A5A1-DCF0B31E9ED3
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "UICollectionViewDataSource"
 summary: "Placeholders for essential UICollectionViewDataSource delegate methods"
